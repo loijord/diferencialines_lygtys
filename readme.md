@@ -5,5 +5,4 @@
 [Antras laboratorinis darbas](https://nbviewer.jupyter.org/github/loijord/diferencialines_lygtys/blob/master/diflygtys2.ipynb)
 
 ## Svarbu!
-
 Jeigu nesimato formulių, pamėginkite atnaujinti puslapį.
